@@ -1,8 +1,8 @@
 # Hi
 
-#### The names Tub, I am a Fullstack Developer, I can make anything you could possibly imagine, Websites, Checkers (Pentesting Tools), Cryptographic Algorithms, Desktop Apps, API's, Discord Bots and Mobile Apps.
+#### The names Alias, I am a Fullstack Developer, I can make anything you could possibly imagine, Websites, Checkers (Pentesting Tools), Cryptographic Algorithms, Desktop Apps, API's, Discord Bots and Mobile Apps.
 
-![](https://komarev.com/ghpvc/?username=TubHasArrived)
+![](https://komarev.com/ghpvc/?username=AliasLovesU)
 
 ## Socials:
 ![](https://img.shields.io/badge/Telegram-aHR0cHM6Ly90Lm1lL3R1Ym9vdHVi-blue)
@@ -17,9 +17,9 @@
 
 
 ## Github Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TubHasArrived&show_icons=true&theme=transparent)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TubHasArrived&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TubHasArrived&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliasLovesU&show_icons=true&theme=transparent)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AliasLovesU&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliasLovesU&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 <!--
